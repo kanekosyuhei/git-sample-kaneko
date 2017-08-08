@@ -9,12 +9,19 @@ public class Car {
 	
 	/**スピード */
 	private Integer speed;
-	
+
 	/**
 	 * 走る.
 	 */
 	public void run(){
 		this.speed += 5;
+	}
+	
+	/**
+	 * 飛ぶ.
+	 */
+	public void fly(){
+		this.speed += 50000;
 	}
 	
 	public Integer getSpeed() {
