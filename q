@@ -1,0 +1,14 @@
+新規にプロジェクトを作成
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   pom.xml
+#	new file:   src/main/java/jp/co/sample/gitSampleKaneko/App.java
+#	new file:   src/main/resources/application.yml
+#	new file:   src/test/java/jp/co/sample/ECmarathoon/AppTest.java
+#
