@@ -21,7 +21,7 @@ public class Car {
 	 * 飛ぶ.
 	 */
 	public void fly(){
-		this.speed += 50000;
+		this.speed += 55000;
 	}
 	
 	public Integer getSpeed() {
